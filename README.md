@@ -1,16 +1,3 @@
-﻿# proyecto-propio
-# Portfolio ¡Hola, bienvenido a mi proyecto personal de portafolio!
+<h1>Proyecto personal</h1>
 
-![imagen](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
-
-## Herramientas utilizadas:
-
-* HTML
-
-* CSS
-
-* Flex-box
-
-## Hecho por:
-
-###Debora Sanchez
+-Estado del proyecto: En construccion.
